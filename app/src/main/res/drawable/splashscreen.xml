@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item >
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="135"
+                android:startColor="#5f84ce"
+                android:endColor="#4c6aa5" />
+        </shape>
+    </item>
+
+    <item android:gravity="center">
+        <bitmap android:src="@drawable/smart_home_splash"/>
+    </item>
+
+
+
+
+</layer-list>
